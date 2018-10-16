@@ -21,6 +21,6 @@ public class ArgumentPassing {
         int a = 4, b = 9;
         System.out.println("a : " + a + " b : " + b);
         a = swap(b, b = a);
-        System.out.println("a : " + a + " b : " + b); 
+        System.out.println("a : " + a + " b :" + b); 
     } 
 }
